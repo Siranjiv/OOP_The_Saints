@@ -1,0 +1,78 @@
+This is a group project done by a group of six memebers on Object Oriented programming using java in order,
+
+•	To identify user requirements and develop Object Oriented Concepts
+•	To develop Java application
+
+
+--------GROUP MEMBERS,ID NUMBERS AND GROUP INFO--------------
+
+S.Siranjiv-		IT19782614
+S.Kurushoth-		IT19780702
+K.Lavan Lucas-		IT19781792
+H.W.A.I.Abeyrathna-	IT19780948
+C.S.William-		IT19782478
+M.Dravid-		IT19782164
+
+*Group Name-The Saints
+-------------------------------------------------------------------
+
+
+
+
+
+
+------------------Group Project Specification--------------------------
+
+
+True Education Academy is a one of the top education institute in Sri Lanka.
+Currently their student management system is a manual process which requires 
+and completely resigned automation from the software development teams around the country. 
+Your head of the software development has assigned your team to develop a java SWING based 
+application based on the following specifications collected by the business analysist of your
+company.
+
+
+1.	Enroll new students to degree programs.
+2.	Manage Certificate programs.
+3.	Manage undergraduate degree programs.
+4.	Manage post graduate degree programs.
+5.	Handling new events in the True Education Academy
+6.	Manage marketing team members.
+7.	Send notifications to marketing teams when new students enrolled to degree programs.
+
+
+---------------------------Work Allocation Plan------------------------------------
+
+
+
+
+Member Name			Tasks Allocated by Numbers separated by a comma
+
+S.Kurushoth					1
+K.Lavan Lucas					2
+S.Siranjiv					3,4
+C.S.William					5
+M.Dravid					6
+H.W.A.I.Abeyrathna				7
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
