@@ -9,17 +9,10 @@ package Models;
  *
  * @author KURUSHOTH.S
  */
-public class Cerificate_Programs 
-{
-    public String Studend_ID;
-    public String Course_Name;
-    public String Course_ID;
-    public String Reg_Date;
-    public String Batch;
-    
-    
-    public void GetCourseInformation()
-    {
-        
+class gender {
+
+    static Object getText() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+    
 }
